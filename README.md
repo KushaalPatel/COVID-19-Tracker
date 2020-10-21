@@ -9,7 +9,9 @@ Displaying the data numerically and graphical based on the selected country.
 
 
 ![PC Image - Global](/image.png)
+
 ![Mobile Image - Specific Country] (./mobileimage.png)
+
 -------------------------------------------------------------------------REACT README--------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
