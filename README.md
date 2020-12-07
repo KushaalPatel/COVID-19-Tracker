@@ -1,4 +1,5 @@
 # COVID-19 Tracker
+View Here: https://kushaalpatel.github.io/COVID-19-Tracker/
 
 # Description
 A mobile friendly react app created to display current up to date data on the number of cases, infections, and deaths from Covid-19.
